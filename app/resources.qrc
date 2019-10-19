@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/pixmaps">
+        <file alias="bluepig_s.png">Resources/pixmaps/bluepig_s.png</file>
+        <file alias="redpig_s.png">Resources/pixmaps/redpig_s.png</file>
+    </qresource>
+    <qresource prefix="/commands">
+        <file alias="turnright_s.png">Resources/commands/turnright_s.png</file>
+        <file alias="downarrow_s.png">Resources/commands/downarrow_s.png</file>
+        <file alias="leftarrow_s.png">Resources/commands/leftarrow_s.png</file>
+        <file alias="rightarrow_s.png">Resources/commands/rightarrow_s.png</file>
+        <file alias="turnleft_s.png">Resources/commands/turnleft_s.png</file>
+        <file alias="uparrow_s.png">Resources/commands/uparrow_s.png</file>
+        <file alias="fist_s.png">Resources/commands/fist_s.png</file>
+        <file alias="laser3_s.png">Resources/commands/laser3_s.png</file>
+        <file alias="skip_s.png">Resources/commands/skip_s.png</file>
+    </qresource>
+</RCC>
